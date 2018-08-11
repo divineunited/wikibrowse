@@ -1,0 +1,1 @@
+This application mimics a random browsing through wikipedia pages that a user might do. The function starts by accepting a wikipedia URL and an integer for the amount of jumps that the program will randomly jump. It will first open the original webpage, and then jump from one wikipedia page to another depending on the number of jumps given.
